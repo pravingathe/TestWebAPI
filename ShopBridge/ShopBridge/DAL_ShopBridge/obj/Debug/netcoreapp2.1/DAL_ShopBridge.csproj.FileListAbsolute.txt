@@ -1,0 +1,14 @@
+C:\Pravin\WebAPI\ShopBridgeRoot\ShopBridge\DAL_ShopBridge\obj\Debug\netcoreapp2.1\DAL_ShopBridge.csprojAssemblyReference.cache
+C:\Pravin\WebAPI\ShopBridgeRoot\ShopBridge\DAL_ShopBridge\obj\Debug\netcoreapp2.1\DAL_ShopBridge.csproj.CoreCompileInputs.cache
+C:\Pravin\WebAPI\ShopBridgeRoot\ShopBridge\DAL_ShopBridge\obj\Debug\netcoreapp2.1\DAL_ShopBridge.AssemblyInfoInputs.cache
+C:\Pravin\WebAPI\ShopBridgeRoot\ShopBridge\DAL_ShopBridge\obj\Debug\netcoreapp2.1\DAL_ShopBridge.AssemblyInfo.cs
+C:\Pravin\WebAPI\ShopBridgeRoot\ShopBridge\DAL_ShopBridge\bin\Debug\netcoreapp2.1\DAL_ShopBridge.deps.json
+C:\Pravin\WebAPI\ShopBridgeRoot\ShopBridge\DAL_ShopBridge\bin\Debug\netcoreapp2.1\DAL_ShopBridge.dll
+C:\Pravin\WebAPI\ShopBridgeRoot\ShopBridge\DAL_ShopBridge\bin\Debug\netcoreapp2.1\DAL_ShopBridge.pdb
+C:\Pravin\WebAPI\ShopBridgeRoot\ShopBridge\DAL_ShopBridge\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Pravin\WebAPI\ShopBridgeRoot\ShopBridge\DAL_ShopBridge\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Pravin\WebAPI\ShopBridgeRoot\ShopBridge\DAL_ShopBridge\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Pravin\WebAPI\ShopBridgeRoot\ShopBridge\DAL_ShopBridge\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Pravin\WebAPI\ShopBridgeRoot\ShopBridge\DAL_ShopBridge\obj\Debug\netcoreapp2.1\DAL_ShopBridge.csproj.CopyComplete
+C:\Pravin\WebAPI\ShopBridgeRoot\ShopBridge\DAL_ShopBridge\obj\Debug\netcoreapp2.1\DAL_ShopBridge.dll
+C:\Pravin\WebAPI\ShopBridgeRoot\ShopBridge\DAL_ShopBridge\obj\Debug\netcoreapp2.1\DAL_ShopBridge.pdb
